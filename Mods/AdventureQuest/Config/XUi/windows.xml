@@ -1,0 +1,14 @@
+<Bowa>
+
+  <setattribute xpath="/windows/window[@name='windowResponses']" name="pos">50,-100</setattribute>
+
+  <setattribute xpath="/windows/window[@name='windowResponses']" name="anchor">LeftTop</setattribute>
+
+  <setattribute xpath="/windows/window[@name='windowResponses']/grid[@controller='DialogResponseList']" name="rows">20</setattribute>
+
+  <setattribute xpath="/windows/window[@name='windowResponses']/grid[@controller='DialogResponseList']" name="cols">3</setattribute>
+
+</Bowa>
+
+
+

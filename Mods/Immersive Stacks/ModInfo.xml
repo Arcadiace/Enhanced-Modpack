@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Immersive Stacks" />
+		<Description value="Immersively increase stacks of some items" />
+		<Author value="Paja" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>

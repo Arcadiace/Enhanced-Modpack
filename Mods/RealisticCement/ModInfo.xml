@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="RealisticCement" />
+		<Description value="Create 'Cement Mix' in the cement mixer with stone and clay" />
+		<Author value="Noz" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>

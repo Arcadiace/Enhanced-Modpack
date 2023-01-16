@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="TextureStreaming" />
+    <Description value="Disables texturestreaming." />
+    <Author value="Redbeardt" />
+    <Version value="1" />
+  </ModInfo>
+</xml>

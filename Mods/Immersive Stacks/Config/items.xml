@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+<!-- Resources -->
+<set xpath="/items/item[@name='toolBellows']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='toolAnvil']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='toolForgeCrucible']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='smallEngine']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='resourceRadiator']/property[@name='Stacknumber']/@value">25</set>
+<set xpath="/items/item[@name='resourceTestosteroneExtract']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='meleeToolFlashlight02']/property[@name='Stacknumber']/@value">10</set>
+
+<!-- Explosives -->
+<set xpath="/items/item[@name='thrownAmmoPipeBomb']/property[@name='Stacknumber']/@value">50</set>
+<set xpath="/items/item[@name='thrownGrenade']/property[@name='Stacknumber']/@value">50</set>
+<set xpath="/items/item[@name='thrownGrenadeContact']/property[@name='Stacknumber']/@value">50</set>
+<set xpath="/items/item[@name='thrownTimedCharge']/property[@name='Stacknumber']/@value">50</set>
+<set xpath="/items/item[@name='thrownDynamite']/property[@name='Stacknumber']/@value">50</set>
+<set xpath="/items/item[@name='thrownAmmoMolotovCocktail']/property[@name='Stacknumber']/@value">50</set>
+
+<!-- Medical -->
+<set xpath="/items/item[@name='medicalAloeCream']/property[@name='Stacknumber']/@value">25</set>
+<set xpath="/items/item[@name='medicalBandage']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='medicalFirstAidBandage']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='medicalFirstAidKit']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='medicalSplint']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='medicalPlasterCast']/property[@name='Stacknumber']/@value">10</set>
+<set xpath="/items/item[@name='medicalBloodBag']/property[@name='Stacknumber']/@value">25</set>
+
+<!-- Drugs -->
+<set xpath="/items/item[@name='drugPainkillers']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugHerbalAntibiotics']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugAntibiotics']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugVitamins']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugRecog']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugFortBites']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugAtomJunkies']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugCovertCats']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugEyeKandy']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugHackers']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugHealthBar']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugJailBreakers']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugNerdTats']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugOhShitzDrops']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugRockBusters']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugSkullCrushers']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drugSugarButts']/property[@name='Stacknumber']/@value">20</set>
+
+<!-- Food Cans -->
+<set xpath="/items/item[@name='foodCanBeef']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanChicken']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanLamb']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanCatfood']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanDogfood']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanChili']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanTuna']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanSham']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanPasta']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanSalmon']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanMiso']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanPeas']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanPears']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanSoup']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCanStock']/property[@name='Stacknumber']/@value">20</set>
+
+
+<!-- Food -->
+<set xpath="/items/item[@name='foodHoney']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCornOnTheCob']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCornBread']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodShamSandwich']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodShamChowder']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodCharredMeat']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodGrilledMeat']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodBoiledMeat']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodMeatStew']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodSteakAndPotato']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodHoboStew']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodFishTacos']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodBakedPotato']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodBlueberryPie']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodPumpkinPie']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodPumpkinCheesecake']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodPumpkinBread']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodEggBoiled']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodBaconAndEggs']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodVegetableStew']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodGumboStew']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodShepardsPie']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodSpaghetti']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='foodTunaFishGravyToast']/property[@name='Stacknumber']/@value">20</set>
+
+<!-- Drinks -->
+<set xpath="/items/item[@name='drinkJarBoiledWater']/property[@name='Stacknumber']/@value">25</set>
+<set xpath="/items/item[@name='drinkJarPureMineralWater']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarYuccaJuice']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkYuccaJuiceSmoothie']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarGoldenRodTea']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarRedTea']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarBlackStrapCoffee']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarBeer']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarGrandpasMoonshine']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarGrandpasAwesomeSauce']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarGrandpasLearningElixir']/property[@name='Stacknumber']/@value">20</set>
+<set xpath="/items/item[@name='drinkJarGrandpasForgettingElixir']/property[@name='Stacknumber']/@value">20</set>
+
+
+
+</configs>
